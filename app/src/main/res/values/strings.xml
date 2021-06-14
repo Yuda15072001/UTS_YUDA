@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_YUDA</string>
+    <string name="sejarah_bani_umayyah">SEJARAH BANI UMAYYAH</string>
+    <string name="bani_abbasiyah_dan_umayya">BANI ABBASIYAH DAN UMAYYA</string>
+    <string name="sejarah">SEJARAH</string>
+    <string name="sejarah_bani_abbasiyah">SEJARAH BANI ABBASIYAH</string>
+    <string name="action_settings">PENGATURAN</string>
+</resources>
